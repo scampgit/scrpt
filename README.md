@@ -1,0 +1,2 @@
+# scrpt
+all exmpls
